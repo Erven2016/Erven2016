@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@66f0b888-5c53-41c5-a837-aedfd6407d3e/b92e3400-c806-4805-94fb-a229d12af683.svg"></embed></figure>
+
 <!--
 **Erven2016/Erven2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
