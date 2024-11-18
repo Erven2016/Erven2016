@@ -1,20 +1,12 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@66f0b888-5c53-41c5-a837-aedfd6407d3e/b92e3400-c806-4805-94fb-a229d12af683.svg"></embed></figure>
+---
 
+Contact me at
+[@Matrix](https://matrix.to/#/@ba343b1645d8de83ef687fb273c014bd16c9a79f26c7d9457605e6fa0ee2366c:matrix.org),
+[@Mastodon](https://mastodon.social/@erven2016),
+[@Mastodon](https://mastodon.social/@erven2016),
+[@Gmail](mailto://leiguihua2016@gmail.com)
+;
 
 [Pub SSH keys](/keys/sshkeys.pub.txt)
-<!--
-**Erven2016/Erven2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
