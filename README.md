@@ -7,4 +7,4 @@ Contact me at
 [@Mastodon](https://mastodon.social/@erven2016), and
 [@Gmail](mailto:leiguihua2016@gmail.com);
 
-[Pub SSH keys](/keys/sshkeys.pub.txt)
+[Keys](https://github.com/erven2016.keys)
